@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vang007/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/vang007/jest-another-RPG#readme"
+  "homepage": "https://github.com/vang007/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
 }
